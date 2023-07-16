@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+
+  application:
+    build: /core
+    ports:
+      - 8000:80
