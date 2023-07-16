@@ -26,6 +26,7 @@ API: [localhost](http://127.0.0.1:8000/docs) `http://127.0.0.1:8000/docs`
 `/init_data` - **get** запрос на внесение данных в базу (уже внесены)
 
 Данные в базе:
+
 ![DB](https://i.imgur.com/ZTkzMwl.png)
 
 #
